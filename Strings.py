@@ -219,7 +219,7 @@ str
 
 
 # In[45]:
-
+s='test'
 s.upper()
 
 
